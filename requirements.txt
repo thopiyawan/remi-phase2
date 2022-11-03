@@ -1,4 +1,4 @@
-Flask==1.1.0
+Flask==2.1.0
 get
 gunicorn==19.6.0
 post
